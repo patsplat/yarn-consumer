@@ -2,3 +2,6 @@
 # yarn lockfile v1
 
 
+"dependency@https://github.com/patsplat/yarn-dependency/archive/refs/tags/1.0.0.tar.gz":
+  version "1.0.0"
+  resolved "https://github.com/patsplat/yarn-dependency/archive/refs/tags/1.0.0.tar.gz#b3bcaff8f7f1bf4d52fc63a8919e0cdf21f4f24f"
