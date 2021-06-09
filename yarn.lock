@@ -2,6 +2,3 @@
 # yarn lockfile v1
 
 
-"dependency@https://github.com/patsplat/yarn-dependency.git":
-  version "1.0.0"
-  resolved "https://github.com/patsplat/yarn-dependency.git#933d245fee6def617f3df956a6ce466d37bb974e"
